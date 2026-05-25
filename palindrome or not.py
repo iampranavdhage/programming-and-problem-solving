@@ -1,0 +1,7 @@
+# Type your code here...
+a=str(input())
+
+if a == a[::-1]:
+	print("Palindrome")
+else:
+	print("Not a Palindrome")
